@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Md Sakib Azam</h1>
-<h3 align="center">Data Analyst | Machine Learning Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Md sakib azam </h1>
+<h3 align="center">DATA ANALYST | BUSINESS ANALYTICS | 
+MACHINE LEARNING </h3>
 
 ---
 
