@@ -37,8 +37,15 @@
 🔹 **CreditWise – Loan Approval Analysis**  
 Analyzed 1,000 loan records to identify key approval factors using EDA.
 
+🔹 **EDA-Analysis**
+SuperStore Analytics: Built an end-to-end retail system using Python for deep EDA and Power BI for interactive business insights. 
+
+🔹 **GoogleStore_Data_Analysis**
+Google Play Store Analysis: Performed deep EDA using Python to uncover app trends, user ratings, and market dynamics for data-driven decisions. 
+
+
 ---
 
 ### 📫 Connect with Me
 - LinkedIn:www.linkedin.com/in/md-sakib-azam-67833239a
- - Email: mdsakibazam975@gmail.com
+- Email: mdsakibazam975@gmail.com
