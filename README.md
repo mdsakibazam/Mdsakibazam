@@ -13,6 +13,10 @@ MACHINE LEARNING </h3>
 ---
 
 ### 🚀 Skills
+- Large Language Model
+- Prompt Engineering
+- Java
+- AI
 - Python  
 - Pandas  
 - NumPy  
@@ -22,7 +26,8 @@ MACHINE LEARNING </h3>
 
 
 ### 🛠 Tools & Technologies
-
+![LLM](https://img.shields.io/badge/LLM-Large%20Language%20Model-blueviolet?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-AI%20Skill-orange?style=for-the-badge&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
